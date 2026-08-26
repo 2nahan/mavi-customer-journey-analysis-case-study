@@ -1,5 +1,5 @@
 # mavi-customer-journey-analysis-case-study
-This repository contains a Business Analysis case study focused on analyzing the customer journey on Mavi's e-commerce website.
+Business Analysis case study focused on analyzing the customer journey on Mavi's e-commerce website.
 
 The analysis covers the customer journey from entering the website until successfully adding a product to the shopping cart.
 
